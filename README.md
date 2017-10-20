@@ -7,7 +7,7 @@ as well as manage the cluster itself.
 Learn more at: https://github.com/kubernetes/dashboard
 
 Docker Pull Command:
-docker pull siriuszg/kubernetes-dashboard-amd64
+* `docker pull siriuszg/kubernetes-dashboard-amd64`
 
 Tag:
 * v1.4.0
