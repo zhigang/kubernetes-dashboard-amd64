@@ -6,6 +6,9 @@ as well as manage the cluster itself.
 
 Learn more at: https://github.com/kubernetes/dashboard
 
+Docker Pull Command:
+docker pull siriuszg/kubernetes-dashboard-amd64
+
 Tag:
 * v1.4.0
 * v1.4.2
@@ -16,4 +19,4 @@ Tag:
 * v1.6.2
 * v1.6.3
 * v1.7.0
-* v1.7.1
+* v1.7.1, latest
