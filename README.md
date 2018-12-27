@@ -4,7 +4,7 @@ Kubernetes Dashboard is a general purpose, web-based UI for Kubernetes clusters.
 It allows users to manage applications running in the cluster, troubleshoot them,
 as well as manage the cluster itself.
 
-Learn more at: https://github.com/kubernetes/dashboard
+Learn more at: <https://github.com/kubernetes/dashboard>
 
 ## Docker Pull Command
 
@@ -26,4 +26,5 @@ Learn more at: https://github.com/kubernetes/dashboard
 * v1.8.1
 * v1.8.2
 * v1.8.3
-* v1.10.0, latest
+* v1.10.0
+* v1.10.1, latest
