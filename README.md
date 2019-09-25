@@ -13,6 +13,7 @@ Learn more at: <https://github.com/kubernetes/dashboard>
 ## TAG
 
 * v1.0.1
+* v1.1.1
 * v1.4.0
 * v1.4.2
 * v1.5.0
